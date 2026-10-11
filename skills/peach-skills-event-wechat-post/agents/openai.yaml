@@ -1,0 +1,4 @@
+interface:
+  display_name: "peach-skills-event-wechat-post"
+  short_description: "把活动信息写成公众号预告、招募或回顾推文初稿并自检"
+  default_prompt: "使用 $peach-skills-event-wechat-post 根据我给的活动信息写一篇公众号活动推文初稿。"
